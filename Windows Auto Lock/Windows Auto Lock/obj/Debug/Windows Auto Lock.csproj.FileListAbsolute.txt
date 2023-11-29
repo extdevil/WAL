@@ -1,0 +1,12 @@
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\bin\Debug\Windows Auto Lock.exe.config
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\bin\Debug\Windows Auto Lock.exe
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\bin\Debug\Windows Auto Lock.pdb
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\obj\Debug\Windows Auto Lock.csproj.AssemblyReference.cache
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\obj\Debug\Windows Auto Lock.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\obj\Debug\Windows Auto Lock.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\obj\Debug\Windows Auto Lock.exe
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\obj\Debug\Windows Auto Lock.pdb
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\bin\Debug\InTheHand.Net.Personal.dll
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\bin\Debug\InTheHand.Net.Personal.xml
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\obj\Debug\Windows Auto Lock.csproj.CopyComplete
+D:\Projects\CSharp\Windows Auto Lock\Windows Auto Lock\bin\Debug\AutoLock.cfg
